@@ -1,7 +1,3 @@
-# Backtracking
-
-
-
 # Backtracking Project
 
 ## Table of Contents
