@@ -1,6 +1,7 @@
 # Backtracking Project
 
 ## Table of Contents
+![Screenshot 2023-09-22 101220](https://github.com/Mayank-Garg7/Backtracking/assets/113042462/3a9fd3fb-0282-45a0-bb20-4372ac36ff0d)
 
 - [Introduction](#introduction)
 - [Project Description](#project-description)
@@ -22,6 +23,8 @@ The project consists of an HTML page that explains the backtracking concept usin
 - **HTML Page**: The main content of the project is contained in `index.html`. It provides an explanation of the backtracking concept, its application, and an example scenario with a decision tree.
 
 - **CSS Styles**: The CSS styles to format the HTML content are defined in `index.css`.
+- 
+![Screenshot 2023-09-22 101259](https://github.com/Mayank-Garg7/Backtracking/assets/113042462/44b0e886-c1b2-45a0-b94b-af3d9fbc0b5c)
 
 ## Usage
 
@@ -57,6 +60,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 Feel free to modify and expand upon this README file to provide more information about your specific backtracking project. Make sure to replace placeholders with actual links and details relevant to your project.
+![Screenshot 2023-09-22 101327](https://github.com/Mayank-Garg7/Backtracking/assets/113042462/7c332e31-9c47-463b-b68e-94ebb2916cdf)
 
 ---
 ## Feel free
